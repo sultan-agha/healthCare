@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/health-care-app.git
+git clone https://github.com/sultan-agha/health-care-app.git
 Open the project in Android Studio.
 
 Build and run the app on your Android device or emulator.
